@@ -39,6 +39,9 @@ After installing the dependencies, run the following command to start the applic
 ``` npm run dev ```
 
 
+![Alt text](path/to/your/image.png)
+
+
 # 🛠️ Tech Stack
 Backend: Node.js, Express
 
