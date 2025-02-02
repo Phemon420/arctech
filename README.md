@@ -38,8 +38,18 @@ After installing the dependencies, run the following command to start the applic
 
 ``` npm run dev ```
 
+# Features
 
-![Alt text](path/to/your/image.png)
+## 1 Home Page Consisting Of All The Data From API
+
+![Alt text](my-react-app/src/assets/third.png)
+
+## 2 Mind Map for data
+![Alt text](my-react-app/src/assets/first.png)
+
+## 3 Mind Map in use
+![Alt text](my-react-app/src/assets/second.png)
+
 
 
 # 🛠️ Tech Stack
